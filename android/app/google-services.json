@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466398821650",
+    "project_id": "gphealthapp",
+    "storage_bucket": "gphealthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466398821650:android:661ce1b8b9183d01eb87cb",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_0xQflbLqkK_NMCRk_M5714BeowMusk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

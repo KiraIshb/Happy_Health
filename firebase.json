@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"gphealthapp","appId":"1:466398821650:android:661ce1b8b9183d01eb87cb","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"gphealthapp","configurations":{"android":"1:466398821650:android:661ce1b8b9183d01eb87cb","ios":"1:466398821650:ios:9e20907a43311d00eb87cb"}}}}}}
